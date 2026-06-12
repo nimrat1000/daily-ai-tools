@@ -54,6 +54,12 @@ Return clean HTML only.
     )
 
     article_html = response.content[0].text
+    
+    article_html = article_html.replace("```html", "")
+    article_html = article_html.replace("```", "")
+    article_html = article_html.strip()
+
+    return article_html
 
     disclaimer = """
     <hr>
