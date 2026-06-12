@@ -5,7 +5,7 @@ from cloudinary_uploader import upload_image
 from blogger_publisher import publish_blog_post
 from buffer_publisher import send_to_buffer
 from telegram_sender import send_telegram_message
-
+from second_blogger_publisher import publish_to_second_blog
 
 def main():
     try:
@@ -27,6 +27,11 @@ def main():
             title=title,
             article_html=article_html,
             image_url=image_url
+        )
+        second_blog_url = publish_to_second_blog(
+            title,
+            article_html,
+            image_url
         )
 
         send_to_buffer(
