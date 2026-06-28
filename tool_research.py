@@ -1,4 +1,32 @@
 from datetime import datetime
+import csv
+
+TOPICS_FILE = "data/topics.csv"
+
+
+def get_ai_tool_topic():
+    with open(TOPICS_FILE, newline="", encoding="utf-8") as file:
+        topics = list(csv.DictReader(file))
+
+    unused_topics = [t for t in topics if t["status"] == "unused"]
+
+    if not unused_topics:
+        raise Exception("No unused topics left in topics.csv")
+
+    selected = sorted(
+        unused_topics,
+        key=lambda x: int(x["priority"]),
+        reverse=True
+    )[0]
+
+    return {
+        "title": selected["title"],
+        "keyword": selected["keyword"],
+        "tool_name": selected["tool_name"],
+        "audience": "AI tool users",
+        "problem": selected["title"],
+        "category": selected["category"]
+    }
 
 AI_TOOLS = [
     {
