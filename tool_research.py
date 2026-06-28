@@ -22,6 +22,7 @@ def get_ai_tool_topic():
     )[0]
 
     return {
+        "id": selected["id"],
         "title": selected["title"],
         "keyword": selected["keyword"],
         "tool_name": selected["tool_name"],
