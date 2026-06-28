@@ -1,4 +1,3 @@
-from datetime import datetime
 import csv
 
 TOPICS_FILE = "data/topics.csv"
@@ -8,14 +7,17 @@ def get_ai_tool_topic():
     with open(TOPICS_FILE, newline="", encoding="utf-8") as file:
         topics = list(csv.DictReader(file))
 
-    unused_topics = [t for t in topics if t["status"] == "unused"]
+    unused_topics = [
+        topic for topic in topics
+        if topic.get("status", "").lower() == "unused"
+    ]
 
     if not unused_topics:
         raise Exception("No unused topics left in topics.csv")
 
     selected = sorted(
         unused_topics,
-        key=lambda x: int(x["priority"]),
+        key=lambda x: int(x.get("priority", 0)),
         reverse=True
     )[0]
 
@@ -23,36 +25,13 @@ def get_ai_tool_topic():
         "title": selected["title"],
         "keyword": selected["keyword"],
         "tool_name": selected["tool_name"],
-        "audience": "AI tool users",
+        "audience": selected.get("audience", "AI tool users"),
         "problem": selected["title"],
-        "category": selected["category"]
+        "category": selected["category"],
+        "cluster": selected.get("cluster", ""),
+        "search_intent": selected.get("search_intent", ""),
+        "difficulty": selected.get("difficulty", ""),
+        "search_volume": selected.get("search_volume", ""),
+        "affiliate_program": selected.get("affiliate_program", ""),
+        "source": selected.get("source", "")
     }
-
-AI_TOOLS = [
-    {
-        "title": "Best AI Writing Tools for Small Business Owners",
-        "keyword": "AI writing tools for small business",
-        "tool_name": "AI Writing Tools",
-        "audience": "small business owners",
-        "problem": "creating daily content without hiring a writer",
-    },
-    {
-        "title": "Best AI Design Tools for Content Creators",
-        "keyword": "AI design tools for content creators",
-        "tool_name": "AI Design Tools",
-        "audience": "content creators",
-        "problem": "making social media graphics faster",
-    },
-    {
-        "title": "Best AI Automation Tools for Online Businesses",
-        "keyword": "AI automation tools for online business",
-        "tool_name": "AI Automation Tools",
-        "audience": "online business owners",
-        "problem": "saving time on repetitive tasks",
-    },
-]
-
-
-def get_ai_tool_topic():
-    today_index = datetime.now().timetuple().tm_yday % len(AI_TOOLS)
-    return AI_TOOLS[today_index]
