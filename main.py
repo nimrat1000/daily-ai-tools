@@ -1,4 +1,5 @@
 from tool_research import get_ai_tool_topic
+from content_memory import mark_topic_as_published
 from article_writer import write_article
 from image_creator import create_pin_image
 from cloudinary_uploader import upload_image
