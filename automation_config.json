@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "mode": "draft_only",
+  "publishing_enabled": false,
+  "brands": {
+    "totalyields": {
+      "name": "TotalYields",
+      "site": "https://www.totalyields.com",
+      "destinations": [
+        "https://countyield.base44.app"
+      ],
+      "category": "finance"
+    },
+    "filefliphub": {
+      "name": "FileFlipHub",
+      "site": "https://filefliphub.base44.app",
+      "destinations": [
+        "https://filefliphub.base44.app"
+      ],
+      "category": "productivity"
+    },
+    "makefortoday": {
+      "name": "MakeForToday",
+      "site": "https://makefortoday.com",
+      "destinations": [
+        "https://makefortoday.com"
+      ],
+      "category": "printables"
+    },
+    "digital_products": {
+      "name": "Digital Products",
+      "site": null,
+      "destinations": [],
+      "category": "mixed"
+    }
+  },
+  "voice": "friendly, conversational expert; concrete examples, concise, genuine questions",
+  "visual_style": "realistic keyword-relevant editorial imagery, occasional subtle humor, accurate charts, genuine product screenshots only",
+  "quality": {
+    "requires_verified_sources": true,
+    "requires_financial_fact_check": true,
+    "prohibit_invented_experience": true,
+    "requires_approval": true
+  }
+}
