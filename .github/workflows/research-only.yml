@@ -19,6 +19,11 @@ jobs:
           python-version: "3.11"
       - name: Collect source leads
         run: python research_only.py
+      - name: Measure keyword volume and ranking difficulty (optional)
+        env:
+          DATAFORSEO_LOGIN: ${{ secrets.DATAFORSEO_LOGIN }}
+          DATAFORSEO_PASSWORD: ${{ secrets.DATAFORSEO_PASSWORD }}
+        run: python keyword_provider.py
       - name: Store research reports for ChatGPT review
         if: always()
         run: |
@@ -26,6 +31,9 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add research_reports/latest.md research_reports/latest.json
+            if [ -f research_reports/keyword_live.md ]; then
+              git add research_reports/keyword_live.md research_reports/keyword_live.json
+            fi
             if ! git diff --cached --quiet; then
               git commit -m "Update keyword and content research"
               git push
