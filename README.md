@@ -23,7 +23,7 @@ python keyword_metrics.py --input path/to/keyword-planner-export.csv
 ```
 Results appear in `research_reports/keyword_opportunities.csv` and `keyword_opportunities.md`. Advertiser competition and organic keyword difficulty are not interchangeable; missing scores remain blank.
 
-See `KEYWORD_MEASUREMENT.md` for instructions. No Google Ads or third-party SEO provider API is connected yet.
+See `KEYWORD_MEASUREMENT.md` for instructions. There is deliberately no paid SEO API. Export keyword statistics manually from Google Keyword Planner and share the CSV in ChatGPT for analysis. Organic ranking difficulty requires manual SERP assessment; Google Ads competition is not that metric.
 
 ## ChatGPT handoff
 Ask ChatGPT to inspect `research_reports/latest.md` or an uploaded keyword report through your connected GitHub repository. ChatGPT can then research, assess, recommend and draft content here. **New research runs do not proactively message ChatGPT by themselves.**
