@@ -2,11 +2,6 @@ name: Keyword and Content Research
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - feature/content-automation-engine
-    paths:
-      - '.github/workflows/research-only.yml'
   schedule:
     - cron: "15 12 * * 1,4"
 
