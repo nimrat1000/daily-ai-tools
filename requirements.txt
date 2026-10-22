@@ -1,14 +1,2 @@
-anthropic
-openai
-pillow
-
-cloudinary
-
-google-api-python-client
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-
-requests
-yfinance
-pandas
+# Research-only repository uses Python standard library only.
+# No external pip packages required.
