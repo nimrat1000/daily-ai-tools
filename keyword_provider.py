@@ -45,8 +45,8 @@ def collect():
                     kd = item.get("keyword_difficulty")
                 rows.append({"keyword": kw, "brands": [b for b,k in pairs if k.lower()==kw.lower()],
                              "monthly_search_volume": info.get("search_volume"),
-                             "ads_competition": info.get("competition"),
-                             "ads_competition_index": info.get("competition_level"),
+                             "ads_competition": info.get("competition_level"),
+                             "ads_competition_index": info.get("competition"),
                              "organic_difficulty": kd,
                              "keyword_intent": (item.get("search_intent_info") or {}).get("main_intent"),
                              "data_source": "DataForSEO Google Keyword Overview (Google Ads-derived volume)",
