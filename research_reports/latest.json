@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-22T17:06:18.594726+00:00",
+  "generated_utc": "2026-10-26T18:39:41.768901+00:00",
   "method": "Google News RSS; topic leads only, not keyword volume or difficulty",
   "brands": {
     "totalyields": [
@@ -7,16 +7,16 @@
         "query": "Canada dividend ETF distribution yield total return",
         "results": [
           {
-            "title": "Vanguard FTSE Canadian High Dividend Yield Index ETF (TSX:VDY) Shines as Bank Profits Surge and Income Investors Return - kalkine.ca",
-            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRXhpUmR2clNic2U5N3Q4bkMzTUl4Mk42VDZmcUpjREl3aHlXSGtTT05OdTZzYU04MU5Kd1lJY054cnY2NXhMSnplbGFIdW5xR2cxZVZfNWc4MkFHR3ZydHN3RmdpTE9wcXJqM3l2QnpxaGFycF9tWlJ0Y0t5X2loX2VjczZTSFJHUTFVTzZTc2NxazB1SHh2THJrLVY1QVh2SUpHdDhMbEJXa2s0akdSRXhicjZKR0tZckJ5UGJuZThVSTRRSkZaaWFFYS1PM3E1TFpDMHdFcjBiZmNPRnAwOUxvbUgyWUlEdmNXU1ExeTVpejg?oc=5",
-            "published": "Sun, 04 Oct 2026 07:00:00 GMT",
-            "publisher": "kalkine.ca"
-          },
-          {
             "title": "Best Canadian Dividend ETFs of 2026 - The Motley Fool Canada",
             "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82bXZPT1E2NEpSbUhHWXV6YVRCZHU4OGpqeFZfWnJ5Y2V6N0J6MlFvbmhWYnEwN0cxUUxqQzNMYk1BaHBnUVpfUk5ZM3hxTGp5V0lkSTVBeTlBdkV5NXJrN0ZBNU14dXpB?oc=5",
             "published": "Mon, 06 Apr 2026 07:00:00 GMT",
             "publisher": "The Motley Fool Canada"
+          },
+          {
+            "title": "Vanguard FTSE Canadian High Dividend Yield Index ETF (TSX:VDY) Shines as Bank Profits Surge and Income Investors Return - kalkine.ca",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRXhpUmR2clNic2U5N3Q4bkMzTUl4Mk42VDZmcUpjREl3aHlXSGtTT05OdTZzYU04MU5Kd1lJY054cnY2NXhMSnplbGFIdW5xR2cxZVZfNWc4MkFHR3ZydHN3RmdpTE9wcXJqM3l2QnpxaGFycF9tWlJ0Y0t5X2loX2VjczZTSFJHUTFVTzZTc2NxazB1SHh2THJrLVY1QVh2SUpHdDhMbEJXa2s0akdSRXhicjZKR0tZckJ5UGJuZThVSTRRSkZaaWFFYS1PM3E1TFpDMHdFcjBiZmNPRnAwOUxvbUgyWUlEdmNXU1ExeTVpejg?oc=5",
+            "published": "Sun, 04 Oct 2026 07:00:00 GMT",
+            "publisher": "kalkine.ca"
           },
           {
             "title": "2 Monthly-Income ETFs With Yields Reaching as High as 5.2% - Yahoo! Finance Canada",
@@ -25,16 +25,16 @@
             "publisher": "Yahoo! Finance Canada"
           },
           {
-            "title": "Best Canadian Dividend ETFs 2026 (And Why I Don't Like Them) - Million Dollar Journey",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FT2JaTEU4RlBoZ1ZnY3RpZkVFNlYzUE1wRkdLNVdmT0I1N19FN01wZTZLaTh5TDJRaEVmUW5wY2tvSmpoY1pydTJCQ0VPQnh2QUlBNzhGMDZ0NzZBUGZud29Jc2JXRElVSDBn?oc=5",
-            "published": "Thu, 25 Dec 2025 08:00:00 GMT",
-            "publisher": "Million Dollar Journey"
-          },
-          {
             "title": "Are Covered Call ETFs Good? - Tawcan",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRlBvTWZzcldXTnBoNmFzbTM5cV9KbnpodjZCSElyS2VtdnE3cm1pN1NCbWJHcGRrU2ZlTnUxa28xd1NqOVN6RVBmQzJ1bC1IcWZnLVlZZTZLUQ?oc=5",
             "published": "Mon, 20 Jul 2026 07:00:00 GMT",
             "publisher": "Tawcan"
+          },
+          {
+            "title": "Best Canadian Dividend ETFs 2026 (And Why I Don't Like Them) - Million Dollar Journey",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FT2JaTEU4RlBoZ1ZnY3RpZkVFNlYzUE1wRkdLNVdmT0I1N19FN01wZTZLaTh5TDJRaEVmUW5wY2tvSmpoY1pydTJCQ0VPQnh2QUlBNzhGMDZ0NzZBUGZud29Jc2JXRElVSDBn?oc=5",
+            "published": "Thu, 25 Dec 2025 08:00:00 GMT",
+            "publisher": "Million Dollar Journey"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -49,22 +49,22 @@
             "publisher": "Yahoo! Finance Canada"
           },
           {
+            "title": "Are Covered Call ETFs Good? - Tawcan",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRlBvTWZzcldXTnBoNmFzbTM5cV9KbnpodjZCSElyS2VtdnE3cm1pN1NCbWJHcGRrU2ZlTnUxa28xd1NqOVN6RVBmQzJ1bC1IcWZnLVlZZTZLUQ?oc=5",
+            "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+            "publisher": "Tawcan"
+          },
+          {
             "title": "How to Structure a $50,000 TFSA for Practically Constant Income - The Motley Fool Canada",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUlFbXdTajhVV3gyZ2NvWUlZcUJWbnBTRHctWk53OXcxeEZVUVZqQjFmS2RIU0thMUVJamowRUc0T3RYYTJvOFVwRi1GbUtjRGh0ODUzZHBLNDdHcm83azIwUkpGTEdSQWdNaGgzNjRlY0RIMFVrUDBjMlJXdGk2dDNnMWFBZHFhR1psLWt5WnJiMjRGdHhLOVdvaw?oc=5",
             "published": "Wed, 20 May 2026 07:00:00 GMT",
             "publisher": "The Motley Fool Canada"
           },
           {
-            "title": "How to Use Your Annual TFSA Room to Double Your Contributions - Yahoo! Finance Canada",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNm1EbkY1MUxVS0xKaWtjczNHNW5lM2RMT1dHaGRGbDUtelhYZ2lvNGZMbl9fNXhXZ2IzWnd6aUs3WWdCOXdqTTlPOU9HWXoxN0ExQUlHSno1dU5hbUljVG44dVN3NVk1LUh2VjRWTmtxdm9KcTVsbkJmVk5BMWxKWG9tdjJIRmRyREZQaGxuVQ?oc=5",
-            "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+            "title": "Power Up Your TFSA: This TSX-Listed ETF Delivers Tax-Free Monthly Cash Flow - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41RTF3TkoyYzJWa0lDbkNZLTJWOFIxOUwtb3hDYXVxenRwUGl2MGhScVJQSS02anl5c3dfSXFTMmRQVnYtTUlzT0pQS2NoN20zVWlIVHFhNVdJZ1FmQ05YVUEwek1UYUhQX2cyNHhlblJqMXJWQXNhYWdtYUxVZkk?oc=5",
+            "published": "Mon, 25 May 2026 07:00:00 GMT",
             "publisher": "Yahoo! Finance Canada"
-          },
-          {
-            "title": "The Best-Performing ETFs for Canadian Investors - Morningstar",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSWhSTHE2OUc1dVpES1NtSFBqTHY3akl6RTJKUkQ4MmctSVV4OEEtRGxDeUh4Y0l5ekoycTE1bEFPS3pxTEROOERvTVNSY2ljSXZXU01sb0ZKTkFRWHk0ci0wRk1BZVJ3QkQ2Z0NsM2JsckpDbWtqWVYzVkFmX3o0UDQ1enkzUUtY?oc=5",
-            "published": "Fri, 05 Dec 2025 15:26:31 GMT",
-            "publisher": "Morningstar"
           },
           {
             "title": "How to Structure a $50,000 TFSA for Practically Constant Income - The Motley Fool Canada",
@@ -81,7 +81,7 @@
           {
             "title": "Are you in the 60% tax bracket? Here's how to tell and what to do if you are - Financial Post",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc2wyejRjWXRsQzk1MXZfRjRZRWg0emhHalpUZFJoTjVpVGpNMllKRXV5bzREUFBJeXlsUDh5dnRCUnp6M0NINllUc2ViWEItcDQzVmd4OWF3NmxuRTY4eFNJWVFGRXRrZ0JOX2p2Q2Q4QWg3dWFNdGF3MEM4U05wV1B4RXU0LThEWXpkeVNGaXVNR0pGRGVaVE1XMFpmX19DQk9B?oc=5",
-            "published": "Wed, 14 Oct 2026 10:04:40 GMT",
+            "published": "Wed, 14 Oct 2026 07:00:00 GMT",
             "publisher": "Financial Post"
           },
           {
@@ -117,16 +117,10 @@
         "query": "PDF compression mobile tutorial",
         "results": [
           {
-            "title": "9 Best PDF Editors I Found After Testing 20 Tools - G2 Learning Hub",
+            "title": "9 Best PDF Editors I Found After Testing 20 Tools - G2 Learn Hub",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBOQXAzSFh6RDNMTG1UcTNlWjE5MDJsdWNsSEx1UnJlVVNhSWdjblJNcnp1dERYVEVYUjYzN21Xa0VoX05fbExlcUxoTmnSAVxBVV95cUxNYWxnT3JjUnpsOXhBSVdtdVBXb1ZONl9xaWhicGFubnVhSVBNYmM3WExPb29ITmJWSzBFam0zeWtyT0ZRNXVrYUtjWkhnOUtYbkRqTW1sMmMzMjJldQ?oc=5",
             "published": "Fri, 31 Jul 2026 07:00:00 GMT",
-            "publisher": "G2 Learning Hub"
-          },
-          {
-            "title": "How to open and edit PDFs on Android. - Adobe",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2T1R3RlhiWWRBTnpqNDZFcEcxd0NtQWJqTm4wRGFqMVNTOFZSQkRPWkI0QWpzLXM5RlF4WDhPQ0lPRHE5dzdkbHpwTnptRW82WWx5Qk1VSEVub1ZqVnAwRzdYLUFldjdmamdnTkQxRDV0QTN2XzQ4d3Fma0ZFd28?oc=5",
-            "published": "Tue, 15 Jul 2025 07:00:00 GMT",
-            "publisher": "Adobe"
+            "publisher": "G2 Learn Hub"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -153,16 +147,16 @@
             "publisher": "RouteNote"
           },
           {
+            "title": "How to Open and Convert HEIC Files on Android - GIS user",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91WUlHZ0JBVzc0aGVsSDR6RDFaZXJZdVBFUE5qMTlUb1g5NXZOMzlWVjBSVHR3MTAtRG1UYVA5WjZvc3RURjNsMEFCSm1GUkZITGNSdmlKeFFIS2dBaXVSa1RLS25VRjM4X2cza2xaVkh1cGIwREZ1elRzMkF2OG8?oc=5",
+            "published": "Thu, 11 Jun 2026 04:19:05 GMT",
+            "publisher": "GIS user"
+          },
+          {
             "title": "How to Convert HEIC Photos to JPG on iPhone and iPad - How-To Geek",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVWdSVi1qV2N3TGtNX3dPQU1CZmlMakpIZmZVSU93aEI0OFBtTWUybFNzWjQ0dHpIS2lTV0o0czJhbENJRE8xeUQ3SnhITXNCMHUxZm45dUkwdmNlSnhiT2s4OWRqX2UyeHYyQ0tmU1BSRnpualBNSEJJdFRiRGVOWmNjODRWbGFmV2gzVmZJYw?oc=5",
             "published": "Sat, 26 Aug 2023 07:00:00 GMT",
             "publisher": "How-To Geek"
-          },
-          {
-            "title": "The Quickest Ways to Convert HEIC to JPEG - Lifehacker",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Gc3FJUXFSWW1rNFRNLUF5MTdVamhTaW41bXdlTnZoTW1lMXhHVkYyclY5VnlQYXl0MkxzYm5JVnU4aTljem5MMUpBU3dWVXFMOXFGcnZKakUzV0VPZWVDZUpvVi1Kbk5QLXF2Z2NFX1dBOEhLSXk2Q3VWTzI?oc=5",
-            "published": "Fri, 03 Jan 2025 08:00:00 GMT",
-            "publisher": "Lifehacker"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -171,34 +165,34 @@
         "query": "invoice payment terms net 30 net 60",
         "results": [
           {
+            "title": "5 steps small retailers can use to handle accounts payable during the holiday stock-up - Lake Chelan Mirror",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNS29ac28tVl9Ed0RGMnRZTXBmaDF1YXYtUF9YT1Nnd2JwUFJ5NGZPMDBka3dCY0RVaTZuZVM0Yzk0ZGVPM0NOTVRlTXpPVTZ6SE82TEhFelBhbVNuVEN3Vl9YRF9nc2ljSksyVkhuRnBqM1RCMDVXSWFJQnJFb21vWWpZckpuLXhMdWtqMlFRVUp3YWNlVWR4Z0w0dDAzOGtpREZnZDdlR0FGSTZEaE9vMS1KWm9YN2NWNXNIcnFteHBKLUVxaXJaNTFibnhXN3ZsQUNMYzU5ZmpkdFNHbTBPdlozdlVTdw?oc=5",
+            "published": "Thu, 22 Oct 2026 18:00:07 GMT",
+            "publisher": "Lake Chelan Mirror"
+          },
+          {
             "title": "Net Payment Terms: Benefits of Net 30/60/90 Terms - J.P. Morgan",
             "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ043SU5JRjN2MzJsZGRieFNSd05tMHdKdV9YRHdtWHdYckRNTEVNSDJLNEdwdzQxOUZOek4xVE9FOURJWDVidGJmRUM5TE9BR0pKYlhpMzJnbDBqVkI4WU5aWGVLUEhKTnlfVjJfRy1aVE9aQ24zZ1M2RGpjczcwRTY2Z0RZWmtZRC1IY0R4SXVFNkhwOGtEd1pMRGFrU2dkSXYteUExM1poWldCbnc?oc=5",
             "published": "Wed, 10 Dec 2025 08:00:00 GMT",
             "publisher": "J.P. Morgan"
           },
           {
-            "title": "Optimizing AR to Mitigate Uncertainty for Middle-Market Businesses - PYMNTS.com",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNGxvbE9XNEY3RHpWdUZ6WFlON05IYVk5cG1Td0tlYnJvUDFrOGtmUmRBeGhkVUZ2el93U1lHZG45Vm9XWGpxZmxZdm5mZDRrX3ZQWEkwRUtDeTNsU2RzZS1fR1B5UXh2UnRlcDktUWZqejlpSUdaajEtY2NtX24zSU1YVnJJOGZyUFZoaXN6YWM0V1FhLWFnYzByWXVnXy1hM0EyX293?oc=5",
-            "published": "Mon, 19 Oct 2026 17:57:13 GMT",
-            "publisher": "PYMNTS.com"
+            "title": "Funding for Recruitment Agencies Facing Weekly Payroll and Net-60 Client Terms Comtex - Chinook Observer",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb2RYUi1vSFJRN2VqVHJ1a29zZktQYmVqWlJtQk9nTEwzaG0zZ3V0MC1ZYlM5aVdaX1FoQnlxU3pGR2NveUUtY1RNYmt1ZmF3MkFPS2hEa2huYWdPZ0ZDMWZQNng2SlNQaEY0N0N1c201MzJ2VVNsUjlJejAzVUQwalFnZHloQ05aTjluajdya2tGUTRZYjN1ZlBUVl9uOS1qNkh4UUw0c19iMjRWOEI0M1pSdVN5S3RpREtPRVIxMEs4c1VjU1ZsS0Y1LWpfeml0eFhDSkU2QXNYdw?oc=5",
+            "published": "Mon, 26 Oct 2026 16:46:24 GMT",
+            "publisher": "Chinook Observer"
           },
           {
-            "title": "The CEO Creative Net-30: Review and Credit Bureau Reporting - Nav",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iZHZYWmdLS0lEVFBGUkpuU2wzNEVyMldndHpQbzNrTDBVWUJQcDRHdlV3Rk5ZNnNtZXRIZmpYZlIxcGMyNlB1T3RpdEFYbGpGOGJOV3FyYXNxQnhrQWJjUURBd2w4anc?oc=5",
-            "published": "Tue, 06 Oct 2026 07:00:00 GMT",
-            "publisher": "Nav"
+            "title": "Best Net 60 Vendors for Small Businesses in 2026 - nav.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3YjNvTWhESjhnYUNCTmpLWS1aQzk5MlZrSjVZU0tOeVFEOXdWQ2NpVHBzeTdvT1NiY3NIYjNFazh3UUFzUGV4djBfdVhoNFRUMlBueUwtMDBtYTNzdDFGcA?oc=5",
+            "published": "Thu, 28 May 2026 07:00:00 GMT",
+            "publisher": "nav.com"
           },
           {
-            "title": "Got outstanding invoices? Try these four tips to speed things along - Centre Daily Times",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQ3pTRGdIbS0yVFBvOEhWSFVTMVNQNkFkazBCMTQyV0VDRGg1MEhvOGJJeE5pczlRTFQ1TWZTTVhEcGhGeUVEMW52a1JYX0ZwSmZFYlJMR0ZtZU9CaGZpMS1JaGZXTjMyZzE4Rms3NTc?oc=5",
-            "published": "Thu, 21 May 2026 07:00:00 GMT",
-            "publisher": "Centre Daily Times"
-          },
-          {
-            "title": "Business Loans for Cash Flow: Types, Pros & Cons, Real Costs, and How to Qualify in 2026 - Ask Luca",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SYVZuZlJIc2doNUFJQnk2T1NsVTREX2xEUE9BMjBmR0RUU0J3MUpVbTNEdGd0TVRXLTlXY2xaMjRSMndma2dyaGJyaVA1S1FvM0p6aXhqcUxweE5aMDZr?oc=5",
-            "published": "Sun, 19 Apr 2026 10:32:50 GMT",
-            "publisher": "Ask Luca"
+            "title": "AeroPay Express Shares The Working-Capital Problem Hiding Inside a 60-Day Invoice - Grit Daily News",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdlIzdVJFb1VzQWNVZUpBMzRiWURQcVVVNm5Vd3B1OXloRmxOaUREVG00WU1wU1FCN3RVVVNaeEVKbHBYc0djbHN0MnhIYzhINEtBUXZXSjB2dFZZUERkQjJ1Q29TR3Y4Um13Z3NCVjk5ekJjM2p1Z3pBSmtaS29RZFduaw?oc=5",
+            "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+            "publisher": "Grit Daily News"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -251,16 +245,10 @@
             "publisher": "Good Housekeeping"
           },
           {
-            "title": "25 Free Printable Easter Bunny Templates for Kids - Prudent Penny Pincher",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6eWx4eV84akNMeVU0TGtJQzNkWlpGX1dHajg1N0UxYzlIaDViWUpKRVVLUjZPNWdlbEREcE9pbFJNZ3ZKTy1vcGFoM0Fld2M4SXgwRk1Eb1VyMy1JbmpXYmdPOHAzOUhrbEJR?oc=5",
-            "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+            "title": "20+ Free Printable Nutcracker Coloring Pages - Prudent Penny Pincher",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55Unh1YTBkYWVMYm5Pb1dBRzFndVpla0FXQl9FS05ZeDgyai1ZRDVfMm80RWZ4VDdkQjk0ZHh5SjJQYlQxY3cwaTNRS2RoVkgxQ3VhbXhJNi00YXBLZV9xUkZzSlNvZ3I5cFlEMjdGQQ?oc=5",
+            "published": "Thu, 24 Sep 2026 07:00:00 GMT",
             "publisher": "Prudent Penny Pincher"
-          },
-          {
-            "title": "90 Free Christmas Printables for Every Holiday Craft - LoveToKnow",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWY3QWtVcUJERkRXUV9weGFjOGRBX0k5RC04TVAtcFdfMWFCaTZGOEJhZi10aTk3Ym9kVlBRbDNkT3ZhNURGTzZyVURFRGZobzRNbktsWDNTTHM5RmxmQW5kTXNKUVpMeXJfZmpxUjJmZnJubDZOMnc5eGNZNGk2OXJFMEdyTlQyZE40WUswaVFoUDlJYTVhZ0NpWnJQcGhOdVU1V1dKS2k?oc=5",
-            "published": "Mon, 10 Feb 2025 08:00:00 GMT",
-            "publisher": "LoveToKnow"
           },
           {
             "title": "Easy Christmas Games That Keep Kids Busy (So You Can Wrap Presents in Peace) - Country Living Magazine",
@@ -273,6 +261,12 @@
             "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XejMtRy10empHZW96bXFvblNZTlNCeGlpdE1CSXFRc2hSN2xOY3EtbndWaUlwdnlGazh5S3hLWDZMdG5ESl9lbFdERDBIVU1jZEdBcEhnTmdOUTk2Mm9yNkdjdF9oclpEcUJNZzhMV0RTdw?oc=5",
             "published": "Mon, 03 Oct 2022 07:00:00 GMT",
             "publisher": "Oprah Daily"
+          },
+          {
+            "title": "25+ Office Christmas Party Games To Get Everyone in the Spirit - LoveToKnow",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2dxM2lTa1dwX0JJa0Nidmw3R3FsWHZYby1GNXRvNUYwSHRVUWE3STRfVWk0aFJsUXNyYkNVSXZORUFtVzhhX3hBc2tmcWJlSlNwSTRzSmttZF9mdUFqMGtrU3dLbVdJeUYyMGFnWmFOUTB5VmVPd2NLMURXTjF1Ym1Sa3g?oc=5",
+            "published": "Thu, 18 Nov 2021 08:00:00 GMT",
+            "publisher": "LoveToKnow"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -281,22 +275,16 @@
         "query": "Halloween pumpkin carving templates",
         "results": [
           {
+            "title": "35+ Halloween Pumpkin Carving Ideas Your Kids Will Love - The Everymom",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aRU1sdU4yRnVYcXgzOW9XMll4aHFSZTZkblBkMlFUNVlwdmZ2MUhSaDhNajRabmRpVUIyWkdPdmNXdlBOeVk1UVJ6SmFxRFhZa2ItNWlQT2FHUQ?oc=5",
+            "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+            "publisher": "The Everymom"
+          },
+          {
             "title": "78 Creative Pumpkin Carving Ideas for Halloween - Reader's Digest",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jb0pFS3V6Ui10bVFwcjUyakFWclFqOG14cnB1X0txQnE1SWFSM2F5bzR0NjdPX092aG1pbnp6WlBBY1ZxRjFwQklfWnFvUm1rN0w4S2FPZHI?oc=5",
             "published": "Mon, 19 Oct 2026 07:00:00 GMT",
             "publisher": "Reader's Digest"
-          },
-          {
-            "title": "These Creative Pumpkin Carving Ideas Deserve a Spot on Your Porch - The Pioneer Woman",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaHlUWnRicWRGR0hNbEktQmNDejR2WW92TnZpQ2doR2llcTlicjQyVFJZUFJpLThaUDF6Uk9YcWVXS0FQMHpucG5BOE9Lc2JDZGlfRGVKNTIzaWdMN0lJblNQaHd1bmNEWEpwUFBvdXFJRnItNTlPSVlQSEgyYmtyV05UZWJFUW13d3hmQnRfYWpnM3QwYzFwRjVLOGY?oc=5",
-            "published": "Mon, 19 Oct 2026 07:00:00 GMT",
-            "publisher": "The Pioneer Woman"
-          },
-          {
-            "title": "35+ Halloween Pumpkin Carving Ideas Your Kids Will Love - The Everymom",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aRU1sdU4yRnVYcXgzOW9XMll4aHFSZTZkblBkMlFUNVlwdmZ2MUhSaDhNajRabmRpVUIyWkdPdmNXdlBOeVk1UVJ6SmFxRFhZa2ItNWlQT2FHUQ?oc=5",
-            "published": "Thu, 15 Oct 2026 17:22:58 GMT",
-            "publisher": "The Everymom"
           },
           {
             "title": "Now's the Time to Carve Your Jack-o'-Lantern—Check Out These Ideas for Inspiration - House Beautiful",
@@ -305,10 +293,16 @@
             "publisher": "House Beautiful"
           },
           {
-            "title": "22 Brilliant Pumpkin Carving Hacks You’ll Wish You Knew Sooner - Real Simple",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjhrT3BiOG15U3dKMElMY1ZfblpuVE9LZl9LbkE0M1hqek5EUUhBdVJSLU1MWGt5ZGt6dWRWUGlQYkhrSFRzZXNlU0YtRWpDaWpKX08yUlRMbUZKcW5KbjZ6bFJBOUVVTklGdUI3TGJFQWxyaXoxY0hBTE8wRVpaS09ZZUlBeGJCUmpzMTAtRmdDRms?oc=5",
-            "published": "Sat, 17 Oct 2026 07:00:00 GMT",
+            "title": "26 Pumpkin Carving Stencils for the Best Jack-o’-Lanterns on the Block - Real Simple",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzVrWmFIbW9Pc185TGIzRXlZMTZwTXU1QTNnZnR1Um4yZ2xFa2FVR1VQbU5sMnVGaWtJSDlEZmdINFpoRk1PNi1URHctM1gxWVZnUkZScDlPZXl5aWM2UlJzQm5KVW0yZEtLM1d3QjB0UzBtc3AxTHQ5R3hMMFZLU2NmdmRodS1KTHBzUUZhTnl5bGgyOGlv?oc=5",
+            "published": "Tue, 22 Sep 2026 07:00:00 GMT",
             "publisher": "Real Simple"
+          },
+          {
+            "title": "These Creative Pumpkin Carving Ideas Deserve a Spot on Your Porch - The Pioneer Woman",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaHlUWnRicWRGR0hNbEktQmNDejR2WW92TnZpQ2doR2llcTlicjQyVFJZUFJpLThaUDF6Uk9YcWVXS0FQMHpucG5BOE9Lc2JDZGlfRGVKNTIzaWdMN0lJblNQaHd1bmNEWEpwUFBvdXFJRnItNTlPSVlQSEgyYmtyV05UZWJFUW13d3hmQnRfYWpnM3QwYzFwRjVLOGY?oc=5",
+            "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+            "publisher": "The Pioneer Woman"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -325,10 +319,10 @@
             "publisher": "qz.com"
           },
           {
-            "title": "The best online will-makers of 2026 - CNBC",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jdFBXWUIzbk5XWm9EVGl0emRiLU1QbzRwVVRTcmpFX0Q4dzRfczBqRmRCMDBtWnFoZHN0NlZkcGxZVXVDemRaaUpwUzdjeEFpRF9USFFIQm8zZHdicC1ZeWVR0gFnQVVfeXFMUHA3TE04YktrRnV0YVIwaVN2b29wN0xPa0ZQT0FaX3YySHpkYlgtaDVuSmVvaHRGV25VMmkxM0lQY25odlNqNlVzMEJyTlFqTEFVUjY5ZzVfWk01RDg4c1lvQXV4dWpTdw?oc=5",
-            "published": "Wed, 09 Sep 2026 07:00:00 GMT",
-            "publisher": "CNBC"
+            "title": "Digital Product Ideas: 40 Things to Make and Sell Online in 2026 - Fello AI",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90MC1GRjJWWndicnhzcTJrTFdSRGNTckNHWTROY1UzUnoxUFpHTWRyZ1VtUlBpSUVIQ0pjZEs4dXBfN0dxY29NQkV5czNiVExmQl9PYw?oc=5",
+            "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+            "publisher": "Fello AI"
           },
           {
             "title": "50 things to make and sell from home in 2026 (with profit tips) - Hostinger",
@@ -337,16 +331,16 @@
             "publisher": "Hostinger"
           },
           {
-            "title": "I Tried the Best Calendar Apps for 2026: My Top Picks - G2 Learning Hub",
+            "title": "I Tried the Best Calendar Apps for 2026: My Top Picks - G2 Learn Hub",
             "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WREw0aGQzOS1pTXdyTDNtYzdEQmRJNEFkXzdDYnQyUUgtUGFZNTdsOHBkM1RiVjdZd00zbWJmUk44dVhncERWaldaYzFnRknSAV9BVV95cUxOWEkzZVlPQzBJcl9qUW9lQlg1aE9QMWN4NVdRTEdTSDhDZ1lGeHBlNWwtTTdtZzZPYll3QWNfWjJYQTBMeU5nMnFqbXl2R0JXdHZEYW55Vkh3ajVCd1FtNA?oc=5",
             "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-            "publisher": "G2 Learning Hub"
+            "publisher": "G2 Learn Hub"
           },
           {
-            "title": "15 Best Journals & Planners: Our Readers’ Favorites - ADDitude",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oR0ljYnBpRVh4bmctS2NnNUlzYzZVYXBhUThJN1dEY1RfT0dSbXpDUFAwRDQ1MUtjZDVqMld1R1ozMkhyR2pqS3U1R1lFa0kwTHpJUnVYbnE5Tm0wdy1XWVgtMlcxNW5LanFNQmFXUWEweldTbFFLbzliUU8?oc=5",
-            "published": "Sun, 08 Feb 2026 08:00:00 GMT",
-            "publisher": "ADDitude"
+            "title": "15 skills you can learn in a weekend and get paid for - qz.com",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43ektVS2lBVUlrZnBka2YxNHVyMEQyc25BcE41ZVMzZkRlSVFVbUloMWM1N0NIeC1XaEQ0RG9QM2tFRUhXYWsxZ0Z0Q3RkZmFzZ3lmQTZkZw?oc=5",
+            "published": "Fri, 07 Aug 2026 07:00:00 GMT",
+            "publisher": "qz.com"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -366,28 +360,28 @@
             "publisher": "Parents"
           },
           {
-            "title": "Free Summer Learning Activities for Kids: What's Actually Worth Your Time - Prodigy",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RS2VWMW4wUXNiVlNlTTdRYjhDeXo3QVIwTFE3SUZ1NHl1TkhqU1JNNG40alRXc19wVWNfVDFITmdlSVFqUnZHY3J4S2pEX2RsWTZ0eHpMWHplc2hUeE5ORjlCS2hBV0VPZk55N2dWa0VNYXdzOXRhazlWNEM?oc=5",
-            "published": "Thu, 14 May 2026 07:00:00 GMT",
-            "publisher": "Prodigy"
-          },
-          {
             "title": "Zones of Regulation Activities To Help Kids Manage Their Emotions - We Are Teachers",
             "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmZE5KdV9fdndrS3dkZ0pUbDFGMDNRMWF2LV9XMWRmWE9Ud2VJOGhReWdFd3lWc1JsbDJGTFl4M21IMzBvT2ROUHhwQk9tckZiRS1mek1IRDF5NkIxbmVzbkJJSnl1dGtURFFjZHRn?oc=5",
             "published": "Tue, 16 Jun 2026 07:00:00 GMT",
             "publisher": "We Are Teachers"
           },
           {
-            "title": "Related Show: Count on June Bug! - PBS",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iLXItR21fZGdXaDFma2ZmYlpiVjROSmRoeHA1SVd4Y3QtV2lONVloclc3S2pmRk81QXV5MW12UUtIZDdHQUFRZm82TUtHcFVPQUo0d1lEUmNsdURPeElIQw?oc=5",
-            "published": "Sat, 28 Feb 2026 02:17:16 GMT",
-            "publisher": "PBS"
+            "title": "Free Summer Learning Activities for Kids: What's Actually Worth Your Time - Prodigy",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RS2VWMW4wUXNiVlNlTTdRYjhDeXo3QVIwTFE3SUZ1NHl1TkhqU1JNNG40alRXc19wVWNfVDFITmdlSVFqUnZHY3J4S2pEX2RsWTZ0eHpMWHplc2hUeE5ORjlCS2hBV0VPZk55N2dWa0VNYXdzOXRhazlWNEM?oc=5",
+            "published": "Thu, 14 May 2026 07:00:00 GMT",
+            "publisher": "Prodigy"
           },
           {
             "title": "25 Free Back to School Printables - Prudent Penny Pincher",
             "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1KT3JpT0RJSUZOSGhNbW42aF95ZFAxNk1lVG1yYVZtcWhiVk5rekJKR0ttRzFxRUFOQllTV3d2azUxWXQ5cG44NDRabVF1amIwNnN5dTg1SHMzVlFic25VaV9mSjZSM0QxT2U2X1BNNERvcXVManc?oc=5",
             "published": "Sat, 04 Jul 2026 07:00:00 GMT",
             "publisher": "Prudent Penny Pincher"
+          },
+          {
+            "title": "90+ Best 3D Printing Ideas for Kids in 2026 - We Are Teachers",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FRnU5eTZXc2tlZHNKRERuTW5zZlhEUHVtTkZxdHBCeTlFVkgyRTBYU2xJbUY5U01rdVEyLUt0NDJVUHV1NElKZDN6S3A4QThaTDdvcE45azAtV1Vm?oc=5",
+            "published": "Mon, 11 May 2026 07:00:00 GMT",
+            "publisher": "We Are Teachers"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
