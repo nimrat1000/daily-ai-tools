@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-05T19:52:54.083092+00:00",
+  "generated_utc": "2026-11-09T22:16:34.850234+00:00",
   "method": "Google News RSS; topic leads only, not keyword volume or difficulty",
   "brands": {
     "totalyields": [
@@ -7,10 +7,16 @@
         "query": "Canada dividend ETF distribution yield total return",
         "results": [
           {
-            "title": "Is a Gold Bullion ETF a Better Investment Than a Silver Miners Fund? ETFs from Goldman Sachs and iShares Battle It Out - The Globe and Mail",
-            "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPZnlFdDR6TTV5aV9ab3JYMWhfa1NXS2JQcUpGN3ROMC15eDliQ2RPN1ZBbHVqRVpYeS1PZXFhb2IyUTE4UWpVVFVCb19RdlAyd3JiVnZTTXExZzdHSlBhdEZneGkzVjNSUFp4ZkY3YzRQWnFXVVNXeVFSTWhfQnFGN2NZWlQ0eF9OcEVDT2wtREx1eUZ0STlZNXA1blhRSzdIZnFRQWNSQUZpLXI2VGtIVGFqZ0RDeXV1MDYweTRld29xY3AwMHFMcFhXWEtZU3NhNWswbGtrd2dXb1F1aV9VVk1fWEZQWHJVX1htZURWM1daR0tvX0JhRXQ4OVZHRWZ4UWNRemxyRGRpa1Y2UzVYNzNSVl90VTBkeXQ1MGF2aWV3aGN4Z2FN?oc=5",
-            "published": "Thu, 05 Nov 2026 18:33:02 GMT",
+            "title": "Vanguard Growth ETF vs. Vanguard Mega Cap Growth ETF: The AI Sell-Off Exposes a Hidden Risk in Both Funds - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSktkWmNVcUhHYlJ0ZnpRQjJackhKMEw0VHQ5MVgtLV9Takk0aVJ1QmZ3QTh3VFVNQ2RfRlhHdEFfRDk5Rkt5TE9DTkd2Z2pNY2c2SHZ4VUlSUk5KN1plLV9rYkJFTGhnMVZudVEtSDBOMHBuTE40bWZDUWNxT0dBYkRyRmVLVXctVGlRTk9ZRkh5aDRNeFJfNUFtbWpEM0lWOHBibUxwbmZUdVMySURXdkxDeU9ac3Y3WWU0b1lqNVZxRHpPNG9XN0I1dmtVYlFod3JZa2NocHJEeVRIWWVBeWZkRDRLQnNwc2t3QjlLU0dmZHFXWUxCcWRZMXVJYXg3T3dvSkFVLTUxbGJGTWhMYzRUV1g0ZjA?oc=5",
+            "published": "Mon, 09 Nov 2026 10:20:59 GMT",
             "publisher": "The Globe and Mail"
+          },
+          {
+            "title": "TD Q Canadian Dividend ETF (TQCD.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84U0pjaWVjQmI0aXhHbGgwOGVtZXJzSGhkeGJrWjhvRGFZQXNvcmREYzV2NTVGSnhFQmZPZ01IUHcwOGNXdUgwMDF1QTVnS1Q4VkdYUXJ3?oc=5",
+            "published": "Sat, 07 Nov 2026 05:40:49 GMT",
+            "publisher": "Yahoo! Finance Canada"
           },
           {
             "title": "All you need to know about accumulating “.L” ETFs as a Canadian investor - MoneySense",
@@ -19,22 +25,16 @@
             "publisher": "MoneySense"
           },
           {
-            "title": "SPDW vs VXUS: Is a State Street or Vanguard International ETF the Better Fit for Your Portfolio? - The Motley Fool",
-            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcm5hNDFOX0dsU2dzb2plNmxmVUU4N1BPcWl2QUFTSENSbmhZNkF4b3FuaTJDZEVMSDRhZkFzNlh5QUU3V2tKclEydXZnSjBoUmlyNG5zNWY2MVFLSnRpVk5zZDd6N3NkUDUtTEFLb3g2MTBpY1M3SHJlMFRQX1VvNWpRWWZTXzUyRnRxSG5PRllqX2FCMlNaX1AwdjhlbmtHem00QnJTLXZMalI5MzFobG1hNEhBNnFTZDJxWGdrV3ducHYzOXNqMGREcjkwdjZZTUlRRmpjNFE?oc=5",
-            "published": "Thu, 05 Nov 2026 18:43:00 GMT",
-            "publisher": "The Motley Fool"
+            "title": "The Yield vs. Weighting Dilemma: How to Choose Between SPSM and SCHA - The Globe and Mail",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVjFTczRaOUZKNmd3a2lrOTl4TFYzTFBNcXdoVXladGRkMy0zbW9MV0kyYzFieHFuRGd5X0hGR3NOSElmZjdIc25TZ0VYUktJVTQxRXphSzN4cVBVaG5EVUF5aUI2OFROYksxOGhfX1R2UDY3RFJpSzJ5NTdQeTFpck9iY0dPc0labFhvTE9xSFJXWElDVTFJUHZTbWNTWXlUUlJJeDh5MXlobHRqWTFWWllDV3N6YWtNYWpoVUpWMDVxZjBZR2NKRG4yMUJQcXhjQ0drc29tVmxyZnZTVHJyU0JDUlpLajA?oc=5",
+            "published": "Sat, 07 Nov 2026 22:38:08 GMT",
+            "publisher": "The Globe and Mail"
           },
           {
             "title": "7 Top-Performing Canadian Dividend and Income Equity ETFs - Morningstar",
             "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcnB5OHQxOE5iVlNyS3VFZ1lPNG9QRjV2SGhoTXhaVkVjSEVRMG9QTFRuYnRGQ0R6TTFsSDNvX0ZJdXFoSkdSWGhteDdlbXFVTTN1V3NuY2tiYnA0bFBRVXFmZjJ5Y1VOMjFQNlZKNV9mQzI4a25BUVBTQ1lmTmJ3TjhOYmIzY2Vpb3BOOW5HN3VjTl9BbURMdEZ6aw?oc=5",
             "published": "Mon, 22 Jun 2026 07:00:00 GMT",
             "publisher": "Morningstar"
-          },
-          {
-            "title": "Best Canadian Dividend ETFs of 2026 - The Motley Fool Canada",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82bXZPT1E2NEpSbUhHWXV6YVRCZHU4OGpqeFZfWnJ5Y2V6N0J6MlFvbmhWYnEwN0cxUUxqQzNMYk1BaHBnUVpfUk5ZM3hxTGp5V0lkSTVBeTlBdkV5NXJrN0ZBNU14dXpB?oc=5",
-            "published": "Mon, 06 Apr 2026 07:00:00 GMT",
-            "publisher": "The Motley Fool Canada"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -43,16 +43,16 @@
         "query": "TFSA covered call ETF Canada investing",
         "results": [
           {
-            "title": "3 Canadian ETFs I’d Snap Up Right Now for My TFSA - Yahoo! Finance Canada",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjRlljcUhtcUF4Ynl3TTdNd2VrQ2hwMDh5Vk5zX0gzSmw0N0tya3FGSUFzdFhiMExSdjYtajZDMldoRVV5XzhiNTNaYUVtSVdFZHNOZEhKTWVwc3RoamxnRFEyTFZKaGdFTEhSZ19Fcnlua1FJXzA4dGxxMA?oc=5",
-            "published": "Sun, 15 Mar 2026 07:00:00 GMT",
-            "publisher": "Yahoo! Finance Canada"
-          },
-          {
             "title": "Are Covered Call ETFs Good? - Tawcan",
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PRlBvTWZzcldXTnBoNmFzbTM5cV9KbnpodjZCSElyS2VtdnE3cm1pN1NCbWJHcGRrU2ZlTnUxa28xd1NqOVN6RVBmQzJ1bC1IcWZnLVlZZTZLUQ?oc=5",
             "published": "Mon, 20 Jul 2026 07:00:00 GMT",
             "publisher": "Tawcan"
+          },
+          {
+            "title": "3 Canadian ETFs I’d Snap Up Right Now for My TFSA - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjRlljcUhtcUF4Ynl3TTdNd2VrQ2hwMDh5Vk5zX0gzSmw0N0tya3FGSUFzdFhiMExSdjYtajZDMldoRVV5XzhiNTNaYUVtSVdFZHNOZEhKTWVwc3RoamxnRFEyTFZKaGdFTEhSZ19Fcnlua1FJXzA4dGxxMA?oc=5",
+            "published": "Sun, 15 Mar 2026 07:00:00 GMT",
+            "publisher": "Yahoo! Finance Canada"
           },
           {
             "title": "How to Structure a $50,000 TFSA for Practically Constant Income - The Motley Fool Canada",
@@ -79,10 +79,10 @@
         "query": "Canada dividend tax calculator personal investing",
         "results": [
           {
-            "title": "Maxed Out Your TFSA? The Account Where Canadian Dividends Are Taxed Less - Yahoo! Finance Canada",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0JBOU9vODVKbmhvaDFUQXJSajVKWTBSajBRYXlCY0N4VGM2eFBkYU5zS2oxYTJMa1Jqc2J4Sk9zX19KaDBQUTVKMnlla2ZlbTVyVXdyLU1lVXdOVHNtcHlZUkwxdDFMd2NvcmttUmlKYVczZFM3RXNLT01pMTdKSkMyNzFESldRcUE?oc=5",
-            "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-            "publisher": "Yahoo! Finance Canada"
+            "title": "Federal budget 2026: An overview of key measures that may impact you - RBC Wealth Management",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2lyUl9QV3lpa18ybkJaVVIxemI4TzRVWVFyczBaNkNock9rcVczenpac1JVNG16cWJzaXRJTk9tSEFFZkNxeGFUaHdUQVVabEswYlJ1M01HVlRoZEl1YmczbDFSNlZwTy15NE1zZDRlaC1zQUd4dnRGZ1R3c2NiWG9hMEoxelVtaG1wNVVOWHZXWlktaGgzQ3IyLXR5WHQtQnE4OWN2aHhpTm5QMDdqWVJadldhY0hra0E?oc=5",
+            "published": "Fri, 06 Nov 2026 01:32:26 GMT",
+            "publisher": "RBC Wealth Management"
           },
           {
             "title": "\"Big Bang\" Tax Reform: Unleashing Growth in the Canadian Economy - C.D. Howe Institute",
@@ -91,10 +91,10 @@
             "publisher": "C.D. Howe Institute"
           },
           {
-            "title": "Year-end tax planner – 2026: Helping individuals and owner-managed businesses save tax - PwC",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOczkxTzlib0V4YzUxTU93TFpiS3dJMGpzaFFOelllTHZKSnlpcVlqRUVWVV95TnkwQjFZdUJpRWZHNTl6aUhrQm5xYW12bnR4TjR0YkFPY0tKV3NnTFVIdnhFTkV2WFQ4OVhNNTJYLWRRcTE3YzFzX0hFTmRpYVR4dXh5M3RvbGpiUnhSbWxIbVVMaXBYS0VzY2NB?oc=5",
-            "published": "Tue, 27 Oct 2026 07:00:00 GMT",
-            "publisher": "PwC"
+            "title": "Maxed Out Your TFSA? The Account Where Canadian Dividends Are Taxed Less - Yahoo! Finance Canada",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0JBOU9vODVKbmhvaDFUQXJSajVKWTBSajBRYXlCY0N4VGM2eFBkYU5zS2oxYTJMa1Jqc2J4Sk9zX19KaDBQUTVKMnlla2ZlbTVyVXdyLU1lVXdOVHNtcHlZUkwxdDFMd2NvcmttUmlKYVczZFM3RXNLT01pMTdKSkMyNzFESldRcUE?oc=5",
+            "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+            "publisher": "Yahoo! Finance Canada"
           },
           {
             "title": "Smith Manoeuvre Tax Deductible Investing: 2026 Guide - Million Dollar Journey",
@@ -189,10 +189,16 @@
         "query": "invoice payment terms net 30 net 60",
         "results": [
           {
-            "title": "5 steps small retailers can use to handle accounts payable during the holiday stock-up - Stacker",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWRjMThWakg1WExMNVByRk5XRkIxamVtMVg0YTcwbUZKY1IyQ2k1OG90WHlfaC1nSVE0QTBkNWowQWgzeGJzaDdrQ3BONjgwR1JpbEx5WHA2MmNKcHRqRm5XcTFzRWFZOGRmbndLUXR6OTVoa0sxQzlVQ3gzeWhwcmY3QTM0VnM1NjBEdl9faHlnejBQNXRWcHQ2QzhaN1ZUdHpuVi1vUnFiRnN2ZTlkaGYxbGtBVXg3VEYw?oc=5",
-            "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-            "publisher": "Stacker"
+            "title": "5 steps small retailers can use to handle accounts payable during the holiday stock-up - Marshall County Tribune",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaDJJb0FPU0Y2bk9YOEFrd2YxY0J5dUFSaDdoRms0Y05FV0tVNFluUVdkaEZ0dm1JWHpCZnhpTktqLS1GVmRaemdPUkdqcHhrakY4R0NjWVBoQXRHbFdMbWZUUUhRMXkzaWtTY1R5cVd6b2pNMXFWaExtVkhyWXAyMnNWcWx4cWppZ2lhc3Z0M2xlZ1pIOVB3UWtybFAxZkJ1MTU1aWtLdGFSTl9XcEZSVGFNOU8xUDlXdFFpRnVCY255WXgtdnJnZXEwV3h5RDJ4YUFaZmNJOU03NExOd1dyMlhKVQ?oc=5",
+            "published": "Thu, 22 Oct 2026 18:00:07 GMT",
+            "publisher": "Marshall County Tribune"
+          },
+          {
+            "title": "Why Late Payments Are Quietly Draining SME Cash Flow - Techloy",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeEpLSlBycDRRNDVObFNsTEkyQ2hwM3dSTGhZY0lFOV9oZzAxR0k5RlpPWkdvX0RqaUZFc2FpeDJBV181UDZQVHllT2V3eGNzOXJzLWZBWnJ1ckRRSEJSWFNjektVcldmOERRMlhmd3loa1lEQUdmdFU5ZjBGZVgxcHF1WnRiUQ?oc=5",
+            "published": "Wed, 16 Sep 2026 07:00:00 GMT",
+            "publisher": "Techloy"
           },
           {
             "title": "Best Net 60 Vendors for Small Businesses in 2026 - nav.com",
@@ -211,12 +217,6 @@
             "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN0RyU1hLQ3RHQmowV1dOa2pzbTMyWWlMVExjM2FXeGViUGNYTGYzM2owNnQ4U0h1SloyaHQ4RUN6aHYyWVg4Ml9BSWRNMG5wd3I5QWREdnlUN0p0azByUG9pdWIwWE5yQktQZzVtb0dsT2tzRjBIbzV4Y29CMUxQcW9xVUlzNk1UdjdlN2toejI3dXNf?oc=5",
             "published": "Thu, 24 Nov 2022 16:15:05 GMT",
             "publisher": "www.saastr.com"
-          },
-          {
-            "title": "How Trade Credit Can Help Your Business - Nav",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xMGxlRmZZVFBxT0JUSFd1Yk9yZ3k3Y1dTbkROYjZFbjZ3UzhEZ2JRS18yVkszN1g2UXlkX0pkdWRyamY4c0dXWVJoTElrN2o1b2pjaEdiWGN1bXg3QzZtWVZHdUtuYnIwWV9EVQ?oc=5",
-            "published": "Thu, 30 Apr 2026 07:00:00 GMT",
-            "publisher": "Nav"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -227,9 +227,9 @@
         "query": "printable birthday invitations free",
         "results": [
           {
-            "title": "16 (Free!) Printable Party Invitations for Any Occasion - HGTV",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFlVaEhsVnI4c1FlNi1pVDJmTktyMXRNRnJ4SG9SQlVrdXBQVU1pV0hPY3IxOXdjczVxaTk0Tkh3eWg0OWdJQ2E3dUVQOGxib2p4bUtjZnBKWTN5cGZZUm1JaVJ0Sk51enpXOF93M1NuWENfanY2cUR5Y2JtanNuSmJBZnlTdkFwbVMtd0RjZGVaSGxJNEIxS0hlV3MtbG0yWENtSGEwQ0dBa0NQZGRfVXRXd0IzRHN5QkN6LTh3?oc=5",
-            "published": "Tue, 05 May 2026 07:00:00 GMT",
+            "title": "Free Christmas Party Invitations - HGTV",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1ZHV2tEZzY4LUJvR3BXQ0ctNFhYV3dENGl3RFhkdmJDRnpLWWp1WDEyaEtCTUMta2xkTk9VVGZhSGZQODljUDZneElVX2RndXVjM1RSYmJybzhueTJXNi1lZkx5VHFqQVNEZktPX0YtNE54bGNKcjlDVkc2eGZsQ0ZqdDRQbVo1a3lpOG5n?oc=5",
+            "published": "Thu, 06 Feb 2020 22:04:00 GMT",
             "publisher": "HGTV"
           },
           {
@@ -239,22 +239,22 @@
             "publisher": "The Suburban Mom"
           },
           {
-            "title": "Free Christmas Party Invitations - HGTV",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1ZHV2tEZzY4LUJvR3BXQ0ctNFhYV3dENGl3RFhkdmJDRnpLWWp1WDEyaEtCTUMta2xkTk9VVGZhSGZQODljUDZneElVX2RndXVjM1RSYmJybzhueTJXNi1lZkx5VHFqQVNEZktPX0YtNE54bGNKcjlDVkc2eGZsQ0ZqdDRQbVo1a3lpOG5n?oc=5",
-            "published": "Thu, 06 Feb 2020 22:04:00 GMT",
-            "publisher": "HGTV"
-          },
-          {
             "title": "A Modern Holiday Craft Party with Martha Stewart Living! - Studio DIY",
             "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0l5N3JXbDVQSkxrMFEtYnoxMjlldHVLMkowaWpVNU5xLWY5blFfWjZaWkQ3cmU4T2NUSFVaQnhjc1pHelg4RFpSX1QyTVpVRUs3LXFOeUFvRVotM0o4WVpwMzdoYTRhWUxIZ182UFo0ck51Q0FaQVZDNTd4SFlTWlUzWms?oc=5",
             "published": "Tue, 19 Nov 2013 08:00:00 GMT",
             "publisher": "Studio DIY"
           },
           {
-            "title": "Plenty of Printables—All Free to Download - njfamily.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZamJGdEhjNi1FRkpleHJnZ04taVZzdy0zVVh2aUF3LWc1Tks2b2RKaVQtN2lIVkFkUUxPSjBmb3ZVZzc0LW9RUGQ4NnZwb051X1l4RTQ1MXl4dFNmYkJVWFRrUUxMNGhmOHZ2TjhEZlhyX1ItREE?oc=5",
-            "published": "Wed, 06 Dec 2023 08:00:00 GMT",
-            "publisher": "njfamily.com"
+            "title": "Free Printable Templates for Holiday Parties - HGTV",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFBoZUQ2N3JMWnNORGZQVjhCU3BTRVVmdF9WNUxvVVVURnM4NDlDYmJVQjFFV0JPVkVzcjd5YWhhRktTX1VnWkVXallpUU4zVGVQY21wcjJKS1FRa2NoZTBmamV3MlowbE9FVk94RVQ1dEdqcVZ3UHhKTWxHd3d6b1pvM3RKSVR4Z3FEZmJsZGs5cF82VmRVTU5lZ2dqQQ?oc=5",
+            "published": "Mon, 22 Jun 2015 07:00:00 GMT",
+            "publisher": "HGTV"
+          },
+          {
+            "title": "The Ultimate Guide to At-Home Creativity: Personalized Printables for Every Occasion - HP",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0N1U0tSZDRGQ3hkeFJvTVgwQ1NVbWJlQ0p1S1pnQjJ3NzJuTjVBWlJtZzlwRjJHbGdMRG9jYjFUVUhfVl9JZ20wdmxmZjVUWXNpVVA4RjFfand3X3pyal94MlhHbWdlcnFkZ3kzV1RLdnRoTVdnS2M4RVViTVRyeDB2QU5TTVQtVG9zRm80bmJXOVF6Nmc?oc=5",
+            "published": "Tue, 25 Mar 2025 07:00:00 GMT",
+            "publisher": "HP"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -263,34 +263,34 @@
         "query": "Christmas printable party decorations",
         "results": [
           {
-            "title": "The \"Snowman Stack Challenge\" Is the Christmas Game Your Family Needs - Good Housekeeping",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmZ4eFR2WnNvRy1veUdRLVdjQ2pOUFNqa05UUjRlM2tOS1V0TXV0VWxUbDlscHFHOVVabmVlUHRHbHJfTWhqZ2kxQ1hzS016MWc1a2xqYmNxNGo2RmFSRVFQTDFtRkhnZnNKVGZzZExXbFJjUkVNemdCbXpyZ21MMFZ1TmhaQlk?oc=5",
-            "published": "Tue, 25 Nov 2025 08:00:00 GMT",
-            "publisher": "Good Housekeeping"
-          },
-          {
             "title": "Easy Christmas Games That Keep Kids Busy (So You Can Wrap Presents in Peace) - Country Living Magazine",
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWFqMEdSdkZsZFV1Qm80bndMWHBycWg2bjV5aGJ5ZkdZcFE1YU1oOW5JY3lTS2xvY3RZbTNtRXUwTEZadGNMSDRlS29mOG51RjdfdlhNMmJSaDAwOGhtU2JwZTFmSm8zQWRUS3JONUR2S1dQNUgxczVqaUN1bFRjZG5n?oc=5",
             "published": "Wed, 03 Dec 2025 08:00:00 GMT",
             "publisher": "Country Living Magazine"
           },
           {
-            "title": "90 Free Christmas Printables for Every Holiday Craft - LoveToKnow",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWY3QWtVcUJERkRXUV9weGFjOGRBX0k5RC04TVAtcFdfMWFCaTZGOEJhZi10aTk3Ym9kVlBRbDNkT3ZhNURGTzZyVURFRGZobzRNbktsWDNTTHM5RmxmQW5kTXNKUVpMeXJfZmpxUjJmZnJubDZOMnc5eGNZNGk2OXJFMEdyTlQyZE40WUswaVFoUDlJYTVhZ0NpWnJQcGhOdVU1V1dKS2k?oc=5",
-            "published": "Mon, 10 Feb 2025 08:00:00 GMT",
+            "title": "85 Easy DIY Christmas Ornaments for All Ages - HGTV",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdEd4NTU0ZVV1ZlFXT1ZwYjY4MnBWYTZXZkl6V0I3a0N2SUZqcFQ0V3hrbW04QWRWQ0c1U3p0c1FtZFFQNWZNM25lS1FJVGt1MEpDbmJWOEQ2dDlEemlEaHhUb0QzR25FZnAxdFZRNkpIR1R2eWl3UWlvRHBmR1V4eUZaZ2Y2TmJvSEpoZ2FFdHZLTzlNc3ZSd1diZVBDUlZP?oc=5",
+            "published": "Tue, 25 Nov 2025 08:00:00 GMT",
+            "publisher": "HGTV"
+          },
+          {
+            "title": "25+ Office Christmas Party Games To Get Everyone in the Spirit - LoveToKnow",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY2dxM2lTa1dwX0JJa0Nidmw3R3FsWHZYby1GNXRvNUYwSHRVUWE3STRfVWk0aFJsUXNyYkNVSXZORUFtVzhhX3hBc2tmcWJlSlNwSTRzSmttZF9mdUFqMGtrU3dLbVdJeUYyMGFnWmFOUTB5VmVPd2NLMURXTjF1Ym1Sa3g?oc=5",
+            "published": "Thu, 18 Nov 2021 08:00:00 GMT",
             "publisher": "LoveToKnow"
           },
           {
-            "title": "22 Christmas Games for a Very Merry Party—Whether You're Hosting Kids, Adults, or the Whole Family - Martha Stewart",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fMk5NNUJXQVZNcmpGcWFCOHdtRFR2eGNWektkRUF6VXprdUFxRUZVSHg4S1NTWjh1R1VwMHV5djZ1cTZweXN0clB1SjRtSERqTEFBVW9MelduaDQwRVJ6anh5YUVCVXRNLUE?oc=5",
-            "published": "Sat, 04 Oct 2025 07:00:00 GMT",
-            "publisher": "Martha Stewart"
+            "title": "41 Adult-Friendly Holiday Games to Play Once the Kids Hit the Hay - Good Housekeeping",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZktSaTItUGdmSGtjbWh0Z2pkdnYxdHBPRHNkdzZncExDNGFDOFQ1VjFQVTRYeGQ2bjN2a3pQTUZFcVZEam1FLWxRcFFkOTJPdnNFRDA0ZS1qOFRlR0cwUGt5TzdSdW5Nd3RMSmkxZGdDZW8tMkFrSS1MN1lHdWVjMWxQMzJsdmc3ZHNuRG0xaHQ5ckx0eWZuMmZ5UFRTci1EcUtF?oc=5",
+            "published": "Tue, 25 Nov 2025 08:00:00 GMT",
+            "publisher": "Good Housekeeping"
           },
           {
-            "title": "28 Kids Birthday Party Favors That Aren’t Junk | Reviews by Wirecutter - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxSmpWRy1RejNRZEJaajZqT3QtNnJKcWZyYWZuaExZRS1zNm1mcmFuUjZMUVpXYVhsQmxfa2lRNXVXczFabnM1dFZyb2dKWDNTeG9Rc1M1Tk1SemFmSlMtSmlMSEUxMVEyYURMZmxJV3ZCZDF3eGg1ZVl2UFktQQ?oc=5",
-            "published": "Fri, 07 Nov 2025 08:00:00 GMT",
-            "publisher": "The New York Times"
+            "title": "30 Fun Christmas Party Game Ideas the Whole Group Will Love - House Beautiful",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0h4azNXb0FZU0hidUxsV09TejR1ZFhRRHJHWmZScV9XUXFvQjNrQ2lPLUtjX2JoSWpWWk9PaWpheFNFSURwZTItSEFsUGhtSEhMUDYzcXVXLTRLenozbkppWERLWk1XTG9KcC1sLWhNQzEwTy16RGpPNU1pNFhLanQyXzQ0MkZHLVhjd09LVmpMRGNoQlY3bXFjVVlRbGI0TlJVTDFB?oc=5",
+            "published": "Sun, 26 Nov 2023 08:00:00 GMT",
+            "publisher": "House Beautiful"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -317,16 +317,16 @@
             "publisher": "Reader's Digest"
           },
           {
-            "title": "Now's the Time to Carve Your Jack-o'-Lantern—Check Out These Ideas for Inspiration - House Beautiful",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWY3djZLSW0tdmlfQUNPd1VCSFllNks5TjVZUU01X0syVllwWm1US0QtLUlEWW5laXNNRDE1X3gxaGpsaDBGNXV2ZmV0VVkyN2RnQzl2SFlGSndsck1PMHpRNEluY0pnRkt0TEFRQWJoU2VmUmZaS0JVa3N2SGlUTmtUME4zUFp2eG5BRzFVUDhZejE0RFNLN0FpZXY5US1KTExTOFBn?oc=5",
-            "published": "Tue, 13 Oct 2026 07:00:00 GMT",
-            "publisher": "House Beautiful"
-          },
-          {
             "title": "26 Pumpkin Carving Stencils for the Best Jack-o’-Lanterns on the Block - Real Simple",
             "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzVrWmFIbW9Pc185TGIzRXlZMTZwTXU1QTNnZnR1Um4yZ2xFa2FVR1VQbU5sMnVGaWtJSDlEZmdINFpoRk1PNi1URHctM1gxWVZnUkZScDlPZXl5aWM2UlJzQm5KVW0yZEtLM1d3QjB0UzBtc3AxTHQ5R3hMMFZLU2NmdmRodS1KTHBzUUZhTnl5bGgyOGlv?oc=5",
             "published": "Tue, 22 Sep 2026 07:00:00 GMT",
             "publisher": "Real Simple"
+          },
+          {
+            "title": "Now's the Time to Carve Your Jack-o'-Lantern—Check Out These Ideas for Inspiration - House Beautiful",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWY3djZLSW0tdmlfQUNPd1VCSFllNks5TjVZUU01X0syVllwWm1US0QtLUlEWW5laXNNRDE1X3gxaGpsaDBGNXV2ZmV0VVkyN2RnQzl2SFlGSndsck1PMHpRNEluY0pnRkt0TEFRQWJoU2VmUmZaS0JVa3N2SGlUTmtUME4zUFp2eG5BRzFVUDhZejE0RFNLN0FpZXY5US1KTExTOFBn?oc=5",
+            "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+            "publisher": "House Beautiful"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
@@ -339,32 +339,32 @@
           {
             "title": "7 Best Digital Planners of 2026 for Work & Daily Planning - TechRepublic",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6UXZKQXZmOEs3V0NsNVZFNGpRb01IbzhOUVBjV3V2YkJVQ1h1aWpIVWgzbjRXakQ2M3B2UXAwRjJmeHF1MFNlazdzZVhBdmZCM2FYc1JHU1IySWdvVS04VmlNeVE?oc=5",
-            "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+            "published": "Wed, 04 Nov 2026 08:00:00 GMT",
             "publisher": "TechRepublic"
           },
           {
-            "title": "7 Free Social Media Calendar Templates to Enhance Your Strategy - Small Business Trends",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oZkxuNmFLZnM2SzhwdDRRRHRudUd5bE1oWTh6WGltdGdySDVUZEhRbjdieUdoem9Hc19zQTRyZzVpU3UybnVhaVRQWGUtNkMxbG9YLXU0SFg1a2plempxb1VXYzRPWmxldVNrbzlJdW8?oc=5",
-            "published": "Fri, 27 Mar 2026 07:00:00 GMT",
-            "publisher": "Small Business Trends"
+            "title": "The 6 Best Digital Calendars, Tested In Our Own Busy Homes - Forbes",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQME5SWEN4TXFUR29aWThQTFRWNlhneXlSMWRidEhBUV81dFhucjk0bVN2TmE2VVpyZ3FIQmQ2Ukw4dHFlRjdDOFRHNXRIV3FMUVRnMWwtQ05Vb0JaSUNvdjV4VGhCY050Q1FvUlhhcU1PSXhfNUtyUzFvSGJhTkRwNmMyN1U5VkpQSU1j?oc=5",
+            "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+            "publisher": "Forbes"
           },
           {
-            "title": "Budget Worksheet: Free Template to Help You Start Budgeting - NerdWallet",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oaXpJN1FCUElQNDkwNENmejNJcEkzbll3OUR4QXAzYkgtX3JwT3B5cnhuQzQtZ2wxMXAwM1NIbVRlOHZ3cmsyWDhxN1lEY080RGpva1BiUGJKaTdVVWdDSFdmSVZ3Qy1o?oc=5",
-            "published": "Wed, 18 Feb 2026 08:00:00 GMT",
-            "publisher": "NerdWallet"
-          },
-          {
-            "title": "I’m Extremely Picky About Planners. These Are the Best I’ve Tried - WIRED",
-            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QTTdOb3J3YmRhX3d6c0R5OG02WDFERmxQRUw2bWMydjlmRjhwaDBFcHd3QmVtbkxDQjBneXBQbHk3VFhHQnctR1p4X096RGRtZHZDenF4UHJTUW1h?oc=5",
-            "published": "Fri, 14 Aug 2026 07:00:00 GMT",
+            "title": "I’m an Obsessive Note-Taker. These Are the Best Digital Notebooks I’ve Tried - WIRED",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TcUl1OTRfUG9wMXdTT2ZMMDRrUG5NZUoxU0hjSWFaSi0zdEQzZHRfT3F3OF9vNUhsX3RibnJ4akdNbkQzd3M0aWkzVHUzemJzX1dIaklwMmcxU2VaQUN6LW1jVk1aUlVwZVNTRG91RnB4VEJS?oc=5",
+            "published": "Tue, 18 Aug 2026 07:00:00 GMT",
             "publisher": "WIRED"
           },
           {
-            "title": "7 Essential Social Media Calendar Templates to Enhance Your Strategy - Small Business Trends",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVbWFrc01rSUVsRGM3aXN6X294azJ2ODQzNUZOd0R3NE5BTFdfZURqUDNVS2l0ZlptaFVHM0hzSnl3U2lyelNzeDlwV1VtM2U5d2VKSzBhdXlOTzNTMktyd2xoUjE2MS0tZ1E?oc=5",
-            "published": "Thu, 26 Mar 2026 07:00:00 GMT",
-            "publisher": "Small Business Trends"
+            "title": "15 Best Journals & Planners: Our Readers’ Favorites - ADDitude",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oR0ljYnBpRVh4bmctS2NnNUlzYzZVYXBhUThJN1dEY1RfT0dSbXpDUFAwRDQ1MUtjZDVqMld1R1ozMkhyR2pqS3U1R1lFa0kwTHpJUnVYbnE5Tm0wdy1XWVgtMlcxNW5LanFNQmFXUWEweldTbFFLbzliUU8?oc=5",
+            "published": "Sun, 08 Feb 2026 08:00:00 GMT",
+            "publisher": "ADDitude"
+          },
+          {
+            "title": "The Best Google Sheets Calendar Templates - Make Tech Easier",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2Si1IX1BvR1RXYXQxVHIzVGkzV0hNMWlwX3lMQ3U5NnVUTmdwTW5VWVJuV0hLMWIxcV9zY3BjaW03MXM2TEg0aXNPaDU5dkNSYWxaaEliV2pXcnoySDFpTXJEUm5Ra0FWYVJJZQ?oc=5",
+            "published": "Thu, 28 Dec 2023 08:00:00 GMT",
+            "publisher": "Make Tech Easier"
           }
         ],
         "interpretation": "Research leads requiring independent fact and keyword validation"
